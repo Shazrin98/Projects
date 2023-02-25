@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">    
+  <head>        
+    <meta charset="UTF-8" />        
+    <meta data-fr-http-equiv="X-UA-Compatible" content="IE=edge" />        
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />        
+    <title>HTML Forms</title>    
+    <style>
+      form > * + * {
+        margin-top: 1rem;
+      }
+    </style>
+  </head>    
+  <body>        
+    
+    
+
+
+
+
+
+
+
+    <header>
+      <h1>My Resume</h1>
+  </header>
+  
+  <main>
+      <section>
+          <h2>About Me</h2>
+  
+          <img width="100" height="100" src="https://media.licdn.com/dms/image/D5603AQHDNOG01q64Mg/profile-displayphoto-shrink_800_800/0/1670255826163?e=1682553600&v=beta&t=-VvANAtbS_gbK5jPGongrGb5tWuTMDWV01RRYYUBrGM" alt="My Avatar" />
+  
+          <p> The guy who loves <strong>business, investing and tech</strong>.</p>
+      </section>
+  
+      <br />
+  
+      <section>
+          <h2>Work Experience</h2>
+  
+          <div>
+              <h4>Malaysia Debt Ventures, Management Trainee</h4>
+  
+              <ul>
+                  <li>Performed financial modeling and analysis on prospective customers.</li>
+                  <li>Participated in various corporate events to further promote and grow MDV's business.</li>
+                  <li>Communicated with multi-disciplinary teams of credit managers, loan monitors, business builders, accountants, lawyers, and clients.</li>
+              </ul>
+          </div>
+      </section>
+  
+      <br />
+  
+      <section>
+          <h2>Stacks</h2>
+  
+          <table>
+              <tr>
+                  <td><b>Frontend</b></td>
+                  <td>Vuejs, Async JavaScript, Vue, Tailwind CSS</td>
+              </tr>
+              <tr>
+                  <td><b>Backend</b></td>
+                  <td>Node, SQL, NoSQL, Express.js</td>
+              </tr>
+              <tr>
+                <td><b>DevOps</b></td>
+                <td>Firebase, Flutter</td>
+            </tr>
+              <tr>
+                  <td><b>Languages</b></td>
+                  <td>Python, C, HTML, CSS, JavaScript, Dart</td>
+              </tr>
+          </table>
+      </section>
+  
+      <br />
+  
+      <section>
+          <h2>Contact Me</h2>
+  
+          <form>
+              <div>
+                  <label for="name">
+                      Your name:
+                      <input id="name" name="name" type="text" placeholder="insert name here" />
+                  </label>
+              </div>
+  
+              <div>
+                  <label for="email">
+                      Your email:
+                      <input id="email" name="email" type="email" placeholder="name@google.com" />
+                  </label>
+              </div>
+  
+              <div>
+                  <label for="message">
+                      Your message:
+                      <div>
+                          <textarea name="message" id="message" cols="50" rows="10"></textarea>
+                      </div>
+                  </label>
+              </div>
+  
+              <button>Submit</button>
+          </form>
+      </section>
+  </main>
+  
+  <footer>
+      <h2>Find me here:</h2>
+      <p><a href="https://linktr.ee/ShazrinFinance" target="_blank">My Business Website</a>, <a href="https://www.linkedin.com/in/shafiqnazrin/" target="_blank">LinkedIn</a></p>
+  </footer>
+
+
+
+
+
+
+
+  </body>
+</html>
