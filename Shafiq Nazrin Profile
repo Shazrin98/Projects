@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shafiq Nazrin</title>
+</head>
+<body>
+    <div>
+        <h1>Shafiq Nazrin</h1>
+        <hr>
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <img 
+                    src="https://media.licdn.com/dms/image/D5603AQHDNOG01q64Mg/profile-displayphoto-shrink_800_800/0/1670255826163?e=1683158400&v=beta&t=GQsbTybtOGagpHLpwctTx-wpknCflOAzbYAAg6A3kfw"
+                    alt="Shafiq Nazrin's LinkedIn profile pic"
+                    height="180"
+                    
+                    />
+                </td>
+                <td>
+                    <p>Malaysian that loves <b>Tech, Finance & Business.</b></p>
+                    <p>
+                        <b>Contact Email:</b> shafiqnazrin5@gmail.com
+                        <br />
+                        <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shafiqnazrin/" target="_blank">https://www.linkedin.com/in/shafiqnazrin/</a>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <p>
+            (Photo Credit: Photographer)
+        </p>
+        <h2>Research Interests</h2>
+        <hr />
+        <p>
+            Researching the future market potential of products and services that will replace existing ones to get ahead of competitors in terms of profit potential.
+        </p>
+<br />
+<h2>Learning</h2>
+<hr>
+<p>
+    Blockchain, Web3, AI, Machine Learning, Metaverse, Cloud Engineering, etc.
+</p>
+<br />
+<h2>Achievements</h2>
+<hr />
+<p>You can find some of them here.</p>
+<hr />
+<ul>
+    <li><b>Github Projects</b> <br>
+    Resume, AirBnB Clone, Media site</li>
+</ul>
+<h2>Accessiblity</h2>
+<hr>
+<p>For more information, see <a href="https://linktr.ee/ShazrinFinance" target="_blank">here.</a> </p>
+    </div>
+</body>
+</html>
